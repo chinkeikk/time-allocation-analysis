@@ -31,7 +31,7 @@ Analysis of how Americans allocate their daily time across activities, how these
 
 ```
 .
-├── Final_Q1_Analysis.ipynb        # Main analysis notebook
+├── time-allocation-analysis.ipynb        # Main analysis notebook
 ├── American Time Use Survey.xlsx  # Dataset (see note below if missing)
 ├── requirements.txt               # Python dependencies
 └── README.md
